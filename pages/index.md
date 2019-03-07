@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /
 section: home
 intro_paragraph: >
-   Leading Web Studio provides web strategy, website audits and website design/development.
+   Leading Web Studio builds & maintains great websites for great companies.
 
 ---
 <!-- content would otherwise go here -->
