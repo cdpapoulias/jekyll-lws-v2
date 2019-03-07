@@ -110,8 +110,8 @@ main {
   margin-left: auto;
   grid-column: main;
   display: grid;
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   @media screen and (min-width: $screen-md-min) {
     align-content: start;
   }
