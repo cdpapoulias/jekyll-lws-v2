@@ -35,6 +35,15 @@ header {
   }
 }
 
+header a {
+  border:0;
+}
+
+header a img {
+  max-height: 50px;
+  width:auto;
+}
+
 // logo, is a grid item
 header > h1 {
   display: inline-block;
@@ -60,6 +69,10 @@ header > h1 {
 header > nav {
   @media screen and (min-width: $screen-sm-min) {
     float: right;
+  }
+  @media screen and (max-width:$screen-sm-min) {
+    border-top: solid 1px #efefef;
+    margin-top:5px;
   }
   ul {
     // flexbox is better than grid for distributing an unknown qty of children
@@ -169,14 +182,17 @@ html[data-current="contact"] main > form {
 }
 
 footer {
+  color: $text-color-negative;
+  border-top: solid 1rem $grey-bg-color;
   grid-column: full;
   display: grid;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
     [main-start] minmax(0, 50rem) [main-end]
     minmax(1rem, 1fr) [full-end];
-  background-color: $grey-bg-color;
+  background-color: $brand-color;
   > small {
     grid-column: main;
   }
+  text-align:center;
 }

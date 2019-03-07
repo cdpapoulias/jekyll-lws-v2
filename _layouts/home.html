@@ -6,6 +6,11 @@ layout: default
 
   {% include page-intro.html %}
 
+  {% for service in site.services %}
+    <h3>{{ service.name }}</h3>
+    {{ service.short-intro }}
+  {% endfor %}
+
   {{ content }}
 
   <section>

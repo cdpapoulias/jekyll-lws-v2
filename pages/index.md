@@ -1,13 +1,10 @@
 ---
 layout: home
-title: Welcome
+title: Welcome!
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Leading Web Studio, LLC (LWS) is a privately owned, incorporated company headquartered in Rockville, MD. LWS provides maintenance, analytics & audits for your current website, and can also help build you a great new website.
+
 ---
 LWS LLC
