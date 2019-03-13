@@ -4,7 +4,7 @@ title: Services
 permalink: /services
 section: services
 intro_paragraph: >
-   LLLLLLLeading Web Studio builds & maintains great websites for great companies.
+   LLLLLLLLLLLLLlLLLLeading Web Studio builds & maintains great websites for great companies.
 
 ---
 {% for service in site.services %}
