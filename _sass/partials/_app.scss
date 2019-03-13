@@ -44,6 +44,17 @@ header a img {
   width:auto;
 }
 
+.rpic {
+  float:right;
+  padding:0.5rem;
+  max-width:15rem;
+}
+
+.lpic {
+  float:left;
+  padding:0.5rem;
+}
+
 // logo, is a grid item
 header > h1 {
   display: inline-block;
