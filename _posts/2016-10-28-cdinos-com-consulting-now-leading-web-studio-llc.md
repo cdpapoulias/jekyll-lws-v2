@@ -20,7 +20,7 @@ disable_post_header:
   - ""
 disable_post_footer:
   - ""
-image: /wp-content/uploads/2018/09/lws-llc-logo_trans_bg-e1536929177581.png
+image: /assets/img/wpu/2018/09/lws-llc-logo_trans_bg-e1536929177581.png
 categories:
   - Company
 tags:

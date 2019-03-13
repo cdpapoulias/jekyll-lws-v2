@@ -18,7 +18,7 @@ disable_post_header:
   - ""
 disable_post_footer:
   - ""
-image: /wp-content/uploads/2018/09/Digital-security-concept-622184706_1258x839.jpeg
+image: /assets/img/wpu/2018/09/Digital-security-concept-622184706_1258x839.jpeg
 categories:
   - Security
 tags:
@@ -36,7 +36,7 @@ Do you use Google&#8217;s browser, called Chrome? I bet you do and guess what? O
 
 Starting in July of 2018, you&#8217;ll start seeing that any website that is not &#8220;https&#8221; secure by default will be labeled as insecure. See the image below from <a href="https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html" target="_blank" rel="noopener">Googles&#8217; blog post</a>:
 
-<img class="alignnone size-medium" src="https://3.bp.blogspot.com/-pcT-gkZb6OA/WnyBrJKufcI/AAAAAAAAAkM/Xojd1GDFbsgwc6ZhZnNjdOFKXeZ_JlMtACLcBGAs/s640/Treatment%2Bof%2BHTTP%2BPages%25401x.png" width="640" height="231" /> 
+<img class="alignnone size-medium" src="https://3.bp.blogspot.com/-pcT-gkZb6OA/WnyBrJKufcI/AAAAAAAAAkM/Xojd1GDFbsgwc6ZhZnNjdOFKXeZ_JlMtACLcBGAs/s640/Treatment%2Bof%2BHTTP%2BPages%25401x.png" width="640" height="231" />
 
 Many websites have already enabled https, and all websites with logins like WordPress, Drupal, Craft CMS and many others need to be secured as well.
 

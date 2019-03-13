@@ -6,7 +6,7 @@ author: Dinos Papoulias
 layout: post
 guid: https://leadingwebstudio.com/?p=486
 permalink: /blog/2018/12/whats-so-hard-about-seo/
-image: /wp-content/uploads/2018/10/business-close-up-commerce-266176-e1539791226703.jpg
+image: /assets/img/wpu/2018/10/business-close-up-commerce-266176-e1539791226703.jpg
 categories:
   - Digital Marketing
   - Website Design

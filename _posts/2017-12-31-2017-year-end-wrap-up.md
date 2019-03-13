@@ -18,7 +18,7 @@ disable_post_header:
   - ""
 disable_post_footer:
   - ""
-image: /wp-content/uploads/2018/09/coffee-cup.jpg
+image: /assets/img/wpu/2018/09/coffee-cup.jpg
 categories:
   - Company
 tags:

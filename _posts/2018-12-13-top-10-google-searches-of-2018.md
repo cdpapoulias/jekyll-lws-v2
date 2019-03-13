@@ -6,7 +6,7 @@ author: Dinos Papoulias
 layout: post
 guid: https://leadingwebstudio.com/?p=520
 permalink: /blog/2018/12/top-10-google-searches-of-2018/
-image: /wp-content/uploads/2018/12/google-logo-png-open-2000.png
+image: /assets/img/wpu/2018/12/google-logo-png-open-2000.png
 categories:
   - Digital Marketing
 tags:

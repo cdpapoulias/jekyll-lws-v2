@@ -6,7 +6,7 @@ author: Dinos Papoulias
 layout: post
 guid: https://leadingwebstudio.com/?p=447
 permalink: /blog/2018/09/when-do-you-know-when-its-time-to-redesign-your-website/
-image: /wp-content/uploads/2018/09/business-computer-device-35550-e1539789050424.jpg
+image: /assets/img/wpu/2018/09/business-computer-device-35550-e1539789050424.jpg
 categories:
   - The Internet @ Large
   - Website Design
