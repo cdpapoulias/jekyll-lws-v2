@@ -1,0 +1,13 @@
+<div class="serviceslisting">
+{% for service in site.services %}
+
+    <div class="servicesquare">
+      <img src="{{service.lead-image}}" class="servicesimage" />
+      <h3>{{ service.name }}</h3>
+      <div class="servicessquareintro">{{ service.short-intro }}</div>
+      <br />
+      <a href="{{ service.url }}">Learn More</a>
+    </div>
+
+{% endfor %}
+</div>

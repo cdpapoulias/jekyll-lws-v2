@@ -1,8 +1,29 @@
+.servicesquare {
+	width:calc(100% / 3);
+	float:left;
+	padding:1rem;
+}
+
+@media screen and (max-width: $screen-sm-min) {
+	.servicesquare {
+		width:auto;
+	}
+}
+
 .servicesimage {
-	max-height: 20rem;
 	max-width: 100%;
 }
 
 .serviceslisting p {
 	margin:0;
+}
+
+.servicessquareintro {
+	height: 10rem;
+}
+
+.section
+{
+	margin-top:1rem;
+	margin-bottom:1rem;
 }
