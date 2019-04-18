@@ -12,7 +12,7 @@ body {
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 52rem) [main-end]
+    [main-start] minmax(0, 62rem) [main-end]
     minmax(1rem, 1fr) [full-end];
 }
 
