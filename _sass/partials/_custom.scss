@@ -27,3 +27,35 @@
 	margin-top:1rem;
 	margin-bottom:1rem;
 }
+
+.blogtitle {
+	padding:0;
+}
+
+main ol {
+	list-style: inherit;
+	margin-bottom:1em;
+	margin-left: 1em;
+}
+
+main ul {
+	list-style-type: inherit;
+	margin-bottom:1em;
+	margin-left: 1em;
+}
+
+.services-promo1 {
+	border:0.1em dashed #000;
+	padding:1em;
+	background:#efefef;
+}
+
+.servicesleadimage {
+  margin: -42% 0;
+}
+
+.servicesleadimagebox {
+  width:60rem;
+	max-height:10rem;
+	overflow: hidden;
+}

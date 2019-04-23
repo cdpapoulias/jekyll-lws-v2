@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Welcome!
+title: Welcome to Leading Web Studio, LLC!
 permalink: /
 section: home
 intro_paragraph: >
-   Leading Web Studio builds & maintains great websites for great companies.
+   We build, maintain & market great websites.
 ---

@@ -3,16 +3,18 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
-
+<h1><a href="/blog">Leading Web Studio Blog</a></h1>
+<h2 class="blogtitle">{{ page.title }}</h2>
 <time datetime="{{ page.date }}">
   <small>
-    <strong>{{ page.date | date_to_string }}</strong>
+    <strong>Posted on {{ page.date | date: "%B %-d, %Y" }}</strong>
     {% if author %}
       by {{ author.name }}
     {% endif %}
   </small>
 </time>
+
+<img src=" {{page.image}} " />
 
 {% include page-intro.html %}
 

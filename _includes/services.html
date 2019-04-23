@@ -2,7 +2,7 @@
 {% for service in site.services %}
 
     <div class="servicesquare">
-      <img src="{{service.lead-image}}" class="servicesimage" />
+      <a href="{{ service.url }}"><img src="{{service.lead-image}}" class="servicesimage" /></a>
       <h3>{{ service.name }}</h3>
       <div class="servicessquareintro">{{ service.short-intro }}</div>
       <br />
