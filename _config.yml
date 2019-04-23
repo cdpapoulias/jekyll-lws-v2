@@ -36,7 +36,7 @@ collections:
 netlifycms: true
 
 # set to 'true' to enable Google Analytics tracking code in production builds
-analytics: false
+analytics: true
 
 # Compress CSS
 sass:
