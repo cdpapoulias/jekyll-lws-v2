@@ -3,6 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="/assets/img/logo-square-ini-150x150.png">
   <title>{% if page.section == "home" %}{{ site.title }}{% else %}{{ page.title | default: site.title }} | {{ site.title }}{% endif %}</title>
+  {% include meta.html %}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}
