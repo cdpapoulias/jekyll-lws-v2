@@ -65,3 +65,15 @@ main ul {
 	max-width: inherit;
 	height: auto;
 }
+
+main a {
+  text-decoration: none;
+  background-image: linear-gradient(to right, #fff 50%, #efefef 50%);
+  background-position: 0;
+  background-size: 200%;
+  transition: all 0.4s;
+}
+
+main a:hover {
+	background-position: -100%
+}
