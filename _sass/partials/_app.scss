@@ -196,6 +196,7 @@ html[data-current="contact"] main > form {
 footer {
   color: $text-color-negative;
   border-top: solid 1rem $grey-bg-color;
+  border-bottom: solid 1rem #296095;
   grid-column: full;
   display: grid;
   grid-template-columns:
