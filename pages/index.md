@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Welcome to Leading Web Studio, LLC!
+title: Top-Notch Web Design, Development, Maintenance & Strategy
 permalink: /
 section: home
 intro_paragraph: >
-   We build, maintain & market websites.
+   We strategize with you. We design, build & maintain websites.
 ---
