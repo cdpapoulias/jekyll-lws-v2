@@ -4,7 +4,7 @@ title: Services
 permalink: /services
 section: services
 intro_paragraph: >
-   Leading Web Studio builds & maintains great websites for great companies.
+   Leading Web Studio builds & maintains great websites for great people & companies.
 
 ---
 {% include services.html %}
