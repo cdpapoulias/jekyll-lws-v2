@@ -30,7 +30,7 @@
 }
 
 .servicessquareintro {
-	height: 10rem;
+	/*height: 10rem;*/
 }
 
 .section
@@ -87,4 +87,8 @@ main a {
 
 main a:hover {
 	background-position: -100%
+}
+
+p.intro {
+	padding-bottom:2rem;
 }
