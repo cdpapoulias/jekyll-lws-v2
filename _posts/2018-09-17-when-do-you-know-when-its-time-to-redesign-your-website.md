@@ -30,4 +30,4 @@ While there are many reasons why you haven&#8217;t redesigned your website recen
   * Your content doesn&#8217;t reflect your current offerings as a company
   * Your website isn&#8217;t helping your company or non-profit make money
 
-There are countless reasons to know when&#8230;but the most important thing to do is [get in touch with your website company or person](https://leadingwebstudio.com/contact/) and [review your website](https://leadingwebstudio.com/services/analyze-strategize/). Your business depends on it.
+There are countless reasons to know when&#8230;but the most important thing to do is [get in touch with your website company or person](https://leadingwebstudio.com/contact/) and [review your website](/services/website-audits-and-strategy). Your business depends on it.
