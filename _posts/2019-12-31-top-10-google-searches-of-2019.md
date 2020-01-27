@@ -3,7 +3,6 @@ title: Top 10 Google Searches of 2019
 date: 2019-12-31T24:00:00+00:00
 author: Dinos Papoulias
 layout: post
-permalink: /blog/2018/12/top-10-google-searches-of-2018/
 image: /assets/img/wpu/2018/12/google-logo-png-open-2000.png
 categories:
   - Digital Marketing
@@ -15,6 +14,8 @@ tags:
 Here are the overall top ten searches according to Google in 2019:
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderTopChartsWidget("81e17924-9c2e-4e30-8408-65c69dd68831", {"geo":"GLOBAL","guestPath":"https://trends.google.com:443/trends/embed/"}, 2019); </script>
+
+<hr />
 
 You can see the full list along with slice & dice your data <a href="https://trends.google.com/trends/yis/2019/GLOBAL/" target="_blank" rel="noopener">here, on Google&#8217;s page.</a> Try changing the country to your own country and comparing the data to other countries &#8211; of family members, friends etc. Very interesting stuff.
 

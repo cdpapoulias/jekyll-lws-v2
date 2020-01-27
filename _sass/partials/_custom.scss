@@ -92,3 +92,7 @@ main a:hover {
 p.intro {
 	padding-bottom:2rem;
 }
+
+nav[aria-label="Adjacent Posts"] ul {
+    list-style: none;
+}
