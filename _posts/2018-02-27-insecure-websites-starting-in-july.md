@@ -6,18 +6,6 @@ author: Dinos Papoulias
 layout: post
 guid: https://leadingwebstudio.kinsta.com/?p=256
 permalink: /blog/2018/02/insecure-websites-starting-in-july/
-materialize_link_target:
-  - _self
-materialize_post_views_count:
-  - "290"
-sidebar_position:
-  - right
-hide_page_title:
-  - ""
-disable_post_header:
-  - ""
-disable_post_footer:
-  - ""
 image: /assets/img/wpu/2018/09/Digital-security-concept-622184706_1258x839.jpeg
 categories:
   - Security

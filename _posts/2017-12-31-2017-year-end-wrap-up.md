@@ -4,27 +4,13 @@ title: 2017 Year End Wrap Up
 date: 2017-12-31T23:00:13+00:00
 author: Dinos Papoulias
 layout: post
-guid: https://leadingwebstudio.kinsta.com/?p=254
 permalink: /blog/2017/12/2017-year-end-wrap-up/
-materialize_link_target:
-  - _self
-materialize_post_views_count:
-  - "215"
-sidebar_position:
-  - right
-hide_page_title:
-  - ""
-disable_post_header:
-  - ""
-disable_post_footer:
-  - ""
 image: /assets/img/wpu/2018/09/coffee-cup.jpg
 categories:
   - Company
 tags:
   - update
 ---
-### Say what!?
 I had intended on posting this during the last week in 2017, but with a new baby in the house along with a toddler, and the need to disconnect for a bit, it&#8217;s just coming now. Yes, this post is backdated 😉
 
 ### 2017

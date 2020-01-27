@@ -2,7 +2,7 @@
 layout: services
 name: Website Design
 short-name: Design
-short-intro: LWS design finely crafted websites for your business or organization that focus on clean design & fulfilling your goals.
+short-intro: LWS designs finely crafted websites for your business or organization that focus on clean design & fulfilling your goals.
 lead-image: /assets/img/services/3_iStock-656892338.png
 ---
 A modern, properly-designed website will not only represent your company well but will increase profits.

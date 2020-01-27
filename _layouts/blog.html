@@ -8,12 +8,11 @@ layout: default
 
 {{ content }}
 
-  <h3>Posts</h3>
-
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
-    <section>
-        <h4><a href="{{ post.url }}"><img src="{{ post.image }}" />{{ post.title }}</a></h4>
+
+    <section class="bloglist">
+        <h4><a href="{{ post.url }}"><img class="listimage" src="{{ post.image }}" />{{ post.title }}</a></h4>
         <time datetime="{{ post.date | date: "%B %-d, %Y" }}">
           <small>
             <strong>{{ post.date | date: "%B %-d, %Y" }}</strong>
@@ -22,6 +21,7 @@ layout: default
             {% endif %}
           </small>
         </time>
-        {{ post.excerpt | strip_newlines | truncate: 180 }}
+        {{ post.excerpt | strip_newlines | truncate: 90 }}
     </section>
+
     {% endfor %}
