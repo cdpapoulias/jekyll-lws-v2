@@ -1,2 +1,2 @@
-# Jekyll Netlify Boilerplate
-## Don't really need a readme file since this is a repository just for my own company website...
+# LWS LLC main website (starting in early 2019)
+## Based off of Jekyll Netlify Boilerplate
