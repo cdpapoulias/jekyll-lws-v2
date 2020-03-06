@@ -6,6 +6,10 @@ section: proposal
 intro_paragraph:
 ---
 
+<button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-plan_D3r3AlJjiRTPbQ" role="link">
+  Checkout
+</button>
+
 <div id="error-message"></div>
 
 <script>
@@ -38,11 +42,3 @@ intro_paragraph:
   });
 })();
 </script>
-
-<form>
-
-<button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-plan_D3r3AlJjiRTPbQ" role="link">
-  Checkout
-</button>
-
-</form>
