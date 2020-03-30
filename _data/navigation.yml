@@ -6,8 +6,8 @@
   url: /services
 - text: Custom Work
   url: /custom-services
-- text: Blog
-  url: /blog
+#- text: Blog
+#  url: /blog
 - text: About
   url: /about
 - text: Contact
