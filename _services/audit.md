@@ -1,20 +1,14 @@
 ---
-layout: services
-name: Website Strategy
-short-name: Strategy
-short-intro: You have to know where you are today before you can plan tomorrow. Let LWS audit your site and craft a plan for tomorrow.
+layout: store
+name: Website Audit
+short-name:  Audit
+short-intro: LWS will conduct a complete audit of your website and send the results to you. You can optionally request a discussion as well.
 lead-image: /assets/img/services/1_iStock-656888944.png
+starts-at: 250
 ---
+<div id="mcxiyi2jrp2c9"><a href="https://app.moonclerk.com/pay/xiyi2jrp2c9">Website Audit</a></div><script type="text/javascript">var mcxiyi2jrp2c9;(function(d,t) {var s=d.createElement(t),opts={"checkoutToken":"xiyi2jrp2c9","width":"100%"};s.src='https://d2l7e0y6ygya2s.cloudfront.net/assets/embed.js';s.onload=s.onreadystatechange = function() {var rs=this.readyState;if(rs) if(rs!='complete') if(rs!='loaded') return;try {mcxiyi2jrp2c9=new MoonclerkEmbed(opts);mcxiyi2jrp2c9.display();} catch(e){}};var scr=d.getElementsByTagName(t)[0];scr.parentNode.insertBefore(s,scr);})(document,'script');</script>
+
 Do you have a plan for your website? LWS will audit your website and provide an action plan to help you get the most from your website.
-
-1. Website Audits & Website Strategy
-1. Website Audits
-1. Website Strategy
-1. Analytics (how many people come to the site, how do they find the site, what are the most popular pages, etc)
-1. ROI Reports
-
-### Pricing
-Website audits start at $250 per website and include a pdf report and a consultation call. Website Strategy is billed at an hourly rate of $120 per hour. Since each website is different, expect to spend at least 5 hours working with LWS on your website strategy.
 
 ### Frequently Asked Questions
 **How much does an audit cost?**

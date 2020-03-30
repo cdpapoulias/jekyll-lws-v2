@@ -1,0 +1,13 @@
+<div class="storelisting">
+{% for product in site.products %}
+
+    <div class="productslisting">
+      <a href="{{ product.url }}"><img src="{{product.lead-image}}" class="storeimage" /></a>
+      <h5>{{ product.short-name }}</h5>
+      <div class="servicessquareintro">{{ product.short-intro }}</div>
+      <div class="storeprice">{{ product.starts-at }}
+      <a href="{{ product.url }}">Buy Now</a>
+    </div>
+
+{% endfor %}
+</div>

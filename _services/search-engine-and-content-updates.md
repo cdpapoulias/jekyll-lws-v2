@@ -1,16 +1,17 @@
 ---
-layout: services
-name: Website Maintenance
-short-name: Maintenance
+layout: store
+name: SEO Monitoring & Website Updates
+short-name: Search Engine Optimization   & Updates
 short-intro: LWS will update all your website content and make sure your website is up to date and has timely info for your website visitors.
 lead-image: /assets/img/services/2_iStock-656891754.png
+starts-at: 250
 ---
+
+<div id="mc5ppzvkcj0vs6"><a href="https://app.moonclerk.com/pay/5ppzvkcj0vs6">Monthly Pro Website Maintenance</a></div><script type="text/javascript">var mc5ppzvkcj0vs6;(function(d,t) {var s=d.createElement(t),opts={"checkoutToken":"5ppzvkcj0vs6","width":"100%"};s.src='https://d2l7e0y6ygya2s.cloudfront.net/assets/embed.js';s.onload=s.onreadystatechange = function() {var rs=this.readyState;if(rs) if(rs!='complete') if(rs!='loaded') return;try {mc5ppzvkcj0vs6=new MoonclerkEmbed(opts);mc5ppzvkcj0vs6.display();} catch(e){}};var scr=d.getElementsByTagName(t)[0];scr.parentNode.insertBefore(s,scr);})(document,'script');</script>
+
 LWS not only builds new websites but also maintains existing ones, whether or not LWS built them in the first place. In other words, we’ve got you covered, regardless of who built your website!
 
 The first thing we usually do is audit your website to gain an understanding of whether or not it’s satisfying your business goals. After all, your website should be connecting you with potential customers and helping convert them into paying customers
-
-### Pricing
-The best websites are maintained on an on-going basis. Our maintenance services on a monthly basis with 6 & 12-month terms. Time is billed at $150/hour with discounts for 12-month terms.
 
 ### Things LWS Can Do
 1. Tweak website design

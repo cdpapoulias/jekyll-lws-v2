@@ -1,11 +1,12 @@
 <div class="serviceslisting">
 {% for service in site.services %}
 
-    <div class="servicesquare">
-      <a href="{{ service.url }}"><img src="{{service.lead-image}}" class="servicesimage" /></a>
-      <h5>{{ service.short-name }}</h5>
-      <div class="servicessquareintro">{{ service.short-intro }}</div>
-      <a href="{{ service.url }}">Learn More</a>
+    <div class="servicestable">
+      <!--<a href="{{ service.url }}"><img src="{{service.lead-image}}" class="servicesimage" /></a>-->
+      <h4 class="productstableheading">{{ service.short-name }}</h4>
+      <div class="services-intro">{{ service.short-intro }}</div>
+      <div class="services-startsat">Starts at ${{ service.starts-at }}</div>
+      <a class="storebutton" href="{{ service.url }}">Buy Now</a>
     </div>
 
 {% endfor %}

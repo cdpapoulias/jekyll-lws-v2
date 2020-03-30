@@ -2,15 +2,24 @@
 layout: default
 ---
 
-<h2>{{ page.intro_paragraph }}</h2>
+<h1 class="homepagetitle">{{ page.intro_paragraph }}</h1>
 
-{% include services.html %}
+  <ul class="homeul">
+    <li class="homesquare">
+      <a href="/services"><img src="/assets/img/www2020/website-services.jpg" /></a>
+      <a href="/services">Website Services Store</a>
+    </li>
+    <li class="homesquare">
+      <a href="/custom-services"><img src="/assets/img/www2020/custom-work.jpg" /></a>
+      <a href="/custom-services">Custom Website Services</a>
+    </li>
+  </ul>
 
   {{ content }}
 
   <section class="section">
 
-    <h3>Recent posts from the blog</h3>
+    <h3>Latest Blog Posts</h3>
     <ul>
       {% for post in site.posts limit:3 %}
         <li>

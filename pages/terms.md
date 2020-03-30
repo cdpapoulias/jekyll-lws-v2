@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Terms & Conditions
-permalink: /proposal-terms-conditions
+title: Terms
+permalink: /terms
+section: utility
+intro_paragraph:
 ---
-All information in this proposal is subject to the following terms and conditions:
 
-##### PROPOSAL
-The terms of this Agreement expires thirty (30) days after being submitted to Client. If this Agreement expires, Consultant may modify the Agreement and resubmit it to Client. 
+Your purchase is subject to the following terms and conditions:
 
 ##### COMPENSATION
-Client agrees to pay Consultant the fees listed in the Project Proposal, including all taxes. Client will pay Consultant expenses, including but not limited to: (a) Incidental and out-of-pocket expenses at cost plus Consultants standard markup of fifteen percent (15%); (b) Mileage reimbursement, other than normal commuting, at fifty-five (0.55) cents per mile; (c)Travel expenses, other than normal commuting, but including airfare and rental vehicles, with client approval. Pricing in the Project Proposal includes only Consultant fees. 
+Client agrees to pay Consultant the fees listed in your purchase form, including all taxes. Client will pay Consultant expenses, including but not limited to: (a) Incidental and out-of-pocket expenses at cost plus Consultants standard markup of fifteen percent (15%); (b) Mileage reimbursement, other than normal commuting, at fifty-five (0.55) cents per mile; (c)Travel expenses, other than normal commuting, but including airfare and rental vehicles, with client approval. Pricing in the Project Proposal includes only Consultant fees. 
 
 Any other costs, such as hosting, art licensing or photography, will be billed to Client.
 
 ##### PAYMENT
-Invoices due upon receipt. Please see the Payment Schedule contained in your proposal.
+You will use a valid form of payment to pay for your service on leadingwebstudio.com.
 
 Hourly Projects
-Projects that are billed on an hourly basis are invoiced on the first of every month following work. Time is kept in 15 minute increments.
+If you're purchasing the Hourly Projects service, time is kept in ten (10) minute increments. When the hours are up, you'll need to purchase a new block of hours if your hours are not set to auto-renew each month AND you're comfortable waiting until the new month rolls over for a new block of time.
 
 ##### LATE PAYMENT
 A monthly service fee of 5 percent, or the maximum allowed by law, is payable on all overdue balances. All grants of any license to use or transfer ownership of any intellectual property rights under this Agreement are conditioned on full payment, including all outstanding Additional Costs, Expenses, Fees, or any other charges.

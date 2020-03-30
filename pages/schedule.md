@@ -9,6 +9,12 @@ intro_paragraph:
 ### Hours of Operation
 LWS is generally open 9am - 5pm Monday - Friday (with emergency hours scheduled on weekends as necessary). Staff are usually working on website projects and maintaining websites for customers during business hours. To ensure a timely conversation, please schedule an apppointment using the scheduling tool below.
 
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/lwsllc'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/lwsllc"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>

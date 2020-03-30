@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Leading Web Studio
-email: studio@leadingwebstudio.com
+email: dinos@leadingwebstudio.com
 description: >- # this means to ignore newlines until "baseurl:"
   Comapny website for Leading Web Studio, LLC.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
