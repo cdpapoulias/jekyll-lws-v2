@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 .users.yml
 .swp
+assets/img/.DS_Store
