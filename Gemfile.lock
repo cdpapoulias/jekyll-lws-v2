@@ -61,7 +61,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8)
+  jekyll (> 3.8)
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
