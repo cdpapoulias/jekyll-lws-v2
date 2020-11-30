@@ -1,0 +1,38 @@
+I"d<div class="serviceslisting">
+
+
+    <div class="servicestable">
+      <!--<a href="/services/audit"><img src="/assets/img/services/1_iStock-656888944.png" class="servicesimage" /></a>-->
+      <h4 class="productstableheading">Audit</h4>
+      <div class="services-intro">LWS will conduct a complete audit of your website and send the results to you. You can optionally request a discussion as well.</div>
+      <div class="services-startsat">Starts at $250</div>
+      <a class="storebutton" href="/services/audit">Buy Now</a>
+    </div>
+
+
+
+    <div class="servicestable">
+      <!--<a href="/services/build-a-new-website"><img src="/assets/img/services/3_iStock-656892338.png" class="servicesimage" /></a>-->
+      <h4 class="productstableheading">Design</h4>
+      <div class="services-intro">If you need a great looking basic website for your business, this is for you! LWS will build a great website for your company on SquareSpace.</div>
+      <div class="services-startsat">Starts at $1750</div>
+      <a class="storebutton" href="/services/build-a-new-website">Buy Now</a>
+    </div>
+
+
+
+    <div class="servicestable">
+      <!--<a href="/services/search-engine-and-content-updates"><img src="/assets/img/services/2_iStock-656891754.png" class="servicesimage" /></a>-->
+      <h4 class="productstableheading">Search Engine Optimization   &amp; Updates</h4>
+      <div class="services-intro">LWS will update all your website content and make sure your website is up to date and has timely info for your website visitors.</div>
+      <div class="services-startsat">Starts at $250</div>
+      <a class="storebutton" href="/services/search-engine-and-content-updates">Buy Now</a>
+    </div>
+
+
+</div>
+
+<div class="services-promo1">
+If you're looking for something completely custom, or have very specific requirements/needs - <a href="/custom-services">see the Custom Work</a> page.
+</div>
+:ET
