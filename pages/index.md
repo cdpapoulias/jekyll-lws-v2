@@ -1,8 +1,8 @@
 ---
-layout:
+layout: home
 title: Top-Notch Web Design, Development, Maintenance & Strategy
 permalink: /
-section: 
+section: home
 intro_paragraph: >
-   LWS designs, builds & maintains websites.
+   I design, build & maintain websites.
 ---
