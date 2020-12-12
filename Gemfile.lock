@@ -71,7 +71,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   jekyll (~> 4.1.1)
+=======
+  jekyll (~> 3.8)
+>>>>>>> parent of 842c27b... updated jekyll version
   jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.5)
