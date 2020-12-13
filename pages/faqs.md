@@ -1,3 +1,11 @@
+---
+layout: default
+title: FAQs
+permalink: /faqs
+section: 
+intro_paragraph:
+---
+
 **What do new websites cost?**
 If you need a simple, cost effective small business or non-profit website, I’ll build one for you on SquareSpace for $1,750. Head over “here” to learn more and purchase the service.
 
