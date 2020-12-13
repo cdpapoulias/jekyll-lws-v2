@@ -4,10 +4,10 @@
 #  url: /
 - text: Services
   url: /services
-- text: Custom Work
+- text: Custom Service
   url: /custom-services
-#- text: Blog
-#  url: /blog
+- text: Weblog
+  url: /blog
 - text: About
   url: /about
 - text: Contact
