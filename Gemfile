@@ -23,6 +23,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem "kramdown-parser-gfm"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
