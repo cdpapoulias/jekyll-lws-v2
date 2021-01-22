@@ -4,8 +4,6 @@
 #  url: /
 - text: Services
   url: /services
-- text: Custom Services
-  url: /custom-services
 - text: Weblog
   url: /blog
 - text: About
