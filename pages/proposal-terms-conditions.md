@@ -6,7 +6,7 @@ permalink: /proposal-terms-conditions
 All information in this proposal is subject to the following terms and conditions:
 
 ##### PROPOSAL
-The terms of this Agreement expires thirty (30) days after being submitted to Client. If this Agreement expires, Consultant may modify the Agreement and resubmit it to Client. 
+The terms of this Agreement expires thirty (30) days after being submitted to Client. If this Agreement expires, Consultant may modify the Agreement and resubmit it to Client.
 
 ##### COMPENSATION
 Client agrees to pay Consultant the fees listed in the Project Proposal, including all taxes. Client will pay Consultant expenses, including but not limited to: (a) Incidental and out-of-pocket expenses at cost plus Consultants standard markup of fifteen percent (15%); (b) Mileage reimbursement, other than normal commuting, at fifty-five (0.55) cents per mile; (c)Travel expenses, other than normal commuting, but including airfare and rental vehicles, with client approval. Pricing in the Project Proposal includes only Consultant fees. 
