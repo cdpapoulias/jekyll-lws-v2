@@ -3,6 +3,9 @@ layout: page
 title: Terms & Conditions
 permalink: /proposal-terms-conditions
 ---
+
+<em>Last Updated: January 27, 2021</em>
+
 All information in this proposal is subject to the following terms and conditions:
 
 ##### PROPOSAL
