@@ -7,7 +7,7 @@ lead-image: /assets/img/services/2_iStock-656891754.png
 starts-at: 250
 ---
 
-<a href="https://my.freshbooks.com/#/checkout/b656d3d66ad7469cb8eeac7dd6eaf216">Monthly Pro Website Maintenance</a>
+<a target="_blank" href="https://my.freshbooks.com/#/checkout/b656d3d66ad7469cb8eeac7dd6eaf216">Monthly Pro Website Maintenance</a>
 
 LWS not only builds new websites but also maintains existing ones, whether or not LWS built them in the first place. In other words, we’ve got you covered, regardless of who built your website!
 
