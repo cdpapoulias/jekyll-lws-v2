@@ -40,7 +40,7 @@ header a {
 }
 
 header a img {
-  max-height: 80px;
+  max-height: 4rem;
   width:auto;
 }
 
@@ -83,8 +83,8 @@ header > nav {
     margin-top:1.5rem;
   }
   @media screen and (max-width:$screen-sm-min) {
-    border-top: solid 1px #efefef;
-    margin-top:5px;
+    //border-top: solid 1px #efefef;
+    //margin-top:5px;
   }
   ul {
     // flexbox is better than grid for distributing an unknown qty of children
@@ -208,4 +208,27 @@ footer {
     grid-column: main;
   }
   text-align:center;
+}
+
+
+header {
+    grid-template-columns: 1fr auto;
+}
+
+
+@media screen and (min-width: 768px) {
+header>nav {
+    float: right;
+    margin-top: 0;
+    margin: auto;
+}
+}
+
+header>nav ul li {
+    margin-right: 1rem;
+    display: inline-block;
+}
+
+header>nav ul {
+    margin: 0.5rem;
 }
