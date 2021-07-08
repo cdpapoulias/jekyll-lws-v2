@@ -1,10 +1,8 @@
 ---
-id: 486
 title: 'What&#8217;s so hard about SEO?'
 date: 2018-12-15T02:00:13+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://leadingwebstudio.com/?p=486
 permalink: /blog/2018/12/whats-so-hard-about-seo/
 image: /assets/img/wpu/2018/10/business-close-up-commerce-266176-e1539791226703.jpg
 categories:
@@ -30,6 +28,6 @@ It&#8217;s time, overdue in fact, to review a few big things about SEO:
 
   * **It Takes Time** (lots of it, sometimes)  
     This is probably the most important thing to know before using SEO to create a strong online presence. Any form of marketing, digital/traditional, takes a decent amount of time before you start to see results. You wouldn’t buy a spot on a billboard and expect every person who drives by it to immediately become a customer, would you? The same principle applies to getting traffic to your website.
-    
+
   * **You Can&#8217;t &#8220;Set It and Forget It&#8221;**  
     Search engine optimization is an ongoing process that requires consistent work and updates to make sure it&#8217;s helping.

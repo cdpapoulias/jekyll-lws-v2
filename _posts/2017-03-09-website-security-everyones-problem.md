@@ -1,9 +1,8 @@
 ---
 title: 'Website Security is Everyone&#8217;s Problem'
 date: 2017-03-09T23:21:37+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://lwsproduction.kinsta.com/?p=91
 permalink: /blog/2017/03/website-security-everyones-problem/
 image: /assets/img/wpu/2018/09/websitesec-1.jpg
 categories:

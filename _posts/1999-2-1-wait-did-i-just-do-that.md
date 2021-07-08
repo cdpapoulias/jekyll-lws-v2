@@ -1,7 +1,7 @@
 ---
 title: Wait...did I just do that?
 date: 1999-2-1T24:00:00+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
 image: /assets/img/photo-1542031630-99647f0f3e54.jpeg
 categories:

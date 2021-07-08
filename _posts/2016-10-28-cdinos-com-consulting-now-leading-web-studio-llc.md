@@ -1,26 +1,9 @@
 ---
-id: 89
 title: CDinos.com Consulting is Now Leading Web Studio, LLC
 date: 2016-10-28T23:20:15+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://lwsproduction.kinsta.com/?p=89
-permalink: /blog/2016/10/cdinos-com-consulting-now-leading-web-studio-llc/
-slide_template:
-  - default
-materialize_link_target:
-  - _self
-materialize_post_views_count:
-  - "923"
-sidebar_position:
-  - right
-hide_page_title:
-  - ""
-disable_post_header:
-  - ""
-disable_post_footer:
-  - ""
-image: /assets/img/wpu/2018/09/lws-llc-logo_trans_bg-e1536929177581.png
+image: /assets/img/lws-dark.png
 categories:
   - Company
 tags:

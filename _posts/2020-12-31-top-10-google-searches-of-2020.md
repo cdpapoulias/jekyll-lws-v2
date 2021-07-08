@@ -1,7 +1,7 @@
 ---
 title: Top 10 Google Searches of 2020
-date: 2019-12-31T24:00:00+00:00
-author: Dinos Papoulias
+date: 2020-12-31T24:00:00+00:00
+author: dinos_papoulias
 layout: post
 image: /assets/img/wpu/2018/12/google-logo-png-open-2000.png
 categories:

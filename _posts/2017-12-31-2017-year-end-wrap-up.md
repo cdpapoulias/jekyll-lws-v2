@@ -1,8 +1,7 @@
 ---
-id: 254
 title: 2017 Year End Wrap Up
 date: 2017-12-31T23:00:13+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
 permalink: /blog/2017/12/2017-year-end-wrap-up/
 image: /assets/img/wpu/2018/09/coffee-cup.jpg

@@ -1,10 +1,8 @@
 ---
-id: 520
 title: Top 10 Google Searches of 2018
 date: 2018-12-13T10:47:50+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://leadingwebstudio.com/?p=520
 permalink: /blog/2018/12/top-10-google-searches-of-2018/
 image: /assets/img/wpu/2018/12/google-logo-png-open-2000.png
 categories:

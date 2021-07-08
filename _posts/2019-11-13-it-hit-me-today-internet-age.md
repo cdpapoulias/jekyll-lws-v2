@@ -1,7 +1,7 @@
 ---
 title: It hit me today...
 date: 2019-11-13T24:00:00+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
 image: /assets/img/photo-1451187580459-43490279c0fa.jpeg
 categories:

@@ -1,10 +1,8 @@
 ---
-id: "257"
 title: Who needs WordPress!?
 date: 2018-03-29T10:21:45.000+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://leadingwebstudio.kinsta.com/?p=257
 permalink: "/blog/2018/03/who-needs-wordpress/"
 materialize_link_target:
 - _self

@@ -22,9 +22,7 @@
 }
 
 .calendly-inline-widget {
-	min-width:320px;
-	min-height:1300px;
-	height:1300px;
+	min-height:80rem;
 }
 
 .footer-bottom {
@@ -36,6 +34,10 @@
 	width: 10em;
 	margin-left: auto;
   margin-right: auto;
+}
+
+footer>small {
+    font-size: 1rem;
 }
 
 .servicesquare {
@@ -52,14 +54,6 @@
 	border: 5px solid #fff;
 }
 
-.homeul {
-	margin:0;
-}
-
-.homepagetitle {
-	font-size:3rem;
-}
-
 .homesquare a {
 	text-decoration: none;
 	font-size: 125%;
@@ -72,18 +66,26 @@
 	border: 5px solid #efefef;
 }
 
-.servicesstore {
-	background: url(/assets/img/www2020/freddie-marriage-vSchPA-YA_A-unsplash.jpg);
+.homeul {
+	margin:0;
 }
 
-.customwork {
-	background: url(/assets/img/www2020/plush-design-studio-l3N9Q27zULw-unsplash.jpg);
+.homepagetitle {
+	font-size:3rem;
 }
 
 @media screen and (max-width: $screen-sm-min) {
 	.homesquare {
 		width:auto;
 	}
+}
+
+.servicesstore {
+	background: url(/assets/img/www2020/freddie-marriage-vSchPA-YA_A-unsplash.jpg);
+}
+
+.customwork {
+	background: url(/assets/img/www2020/plush-design-studio-l3N9Q27zULw-unsplash.jpg);
 }
 
 @media screen and (max-width: $screen-sm-min) {
@@ -111,11 +113,11 @@
 }
 
 img.listimage {
-	width: 100%;
-	height: 200px;
+	width: 11rem;
   -o-object-fit: cover;
 	object-fit: cover;
-	padding: 1px;
+	padding: 1.2rem;
+	float:left;
 }
 
 .mainpostimage {
@@ -187,4 +189,9 @@ p.intro {
 
 nav[aria-label="Adjacent Posts"] ul {
     list-style: none;
+}
+
+.blog {
+	font-size: 2rem;
+	margin-top: 1rem;
 }

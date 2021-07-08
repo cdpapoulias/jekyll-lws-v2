@@ -4,8 +4,8 @@
 #  url: /
 - text: Services
   url: /services
-- text: Weblog
-  url: /blog
+#- text: Weblog
+#  url: /blog
 - text: About
   url: /about
 - text: Contact

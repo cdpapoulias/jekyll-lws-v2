@@ -1,10 +1,8 @@
 ---
-id: 447
 title: When do you know it’s time to redesign your website?
 date: 2018-09-17T11:06:49+00:00
-author: Dinos Papoulias
+author: dinos_papoulias
 layout: post
-guid: https://leadingwebstudio.com/?p=447
 permalink: /blog/2018/09/when-do-you-know-when-its-time-to-redesign-your-website/
 image: /assets/img/wpu/2018/09/business-computer-device-35550-e1539789050424.jpg
 categories:
